@@ -60,7 +60,7 @@ def process_config(config):
 def print_ascii_header():
     ascii_header = """         
     Chakku - Config Based CSS and JS Bundler
-    Website: aliveforms.com/opensource/chakku
+    Website: aliveforms.com/opensource#chakku
     """
     print(ascii_header)
 
