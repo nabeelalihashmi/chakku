@@ -4,8 +4,9 @@ An FOSS Tool by Aliveforms -
 [https://aliveforms.com](https://aliveforms.com)
 
 
-
 Chakku is a simple tool for bundling and minifying CSS and JS files. It reads a configuration file to specify input files, types, and output file names. Chakku supports both local and online files.
+
+![Chakku](chakku.png)
 
 ### Installation
 
@@ -18,7 +19,7 @@ cd chakku
 
 2. Install dependencies:
 ```
-pip install -r requirements.txt
+pip install beautifulsoup4 requests csscompressor jsmin
 ```
 
 ### Usage
