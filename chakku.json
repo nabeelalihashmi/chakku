@@ -1,0 +1,17 @@
+[
+  {
+    "files": ["src/css/style1.css", "src/css/style2.css"],
+    "type": "css",
+    "output": "dist/bundle.css"
+  },
+  {
+    "files": ["src/js/script1.js", "src/js/script2.js"],
+    "type": "js",
+    "output": "dist/bundle.js"
+  },
+  {
+    "files": ["https://example.com/external.css", "src/css/local.css"],
+    "type": "css",
+    "output": "dist/external_bundle.css"
+  }
+]
